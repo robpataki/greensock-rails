@@ -1,22 +1,23 @@
-# -*- encoding: utf-8 -*-
-require File.expand_path('../lib/greensock/rails/version', __FILE__)
+# coding: utf-8
+lib = File.expand_path('../lib', __FILE__)
+$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+require 'greensock/rails/version'
 
-spec = Gem::Specification.new do |s|
-  s.name = 'greensock-rails'
-  s.version     = GSAP::Rails::VERSION
-  s.summary     = "Use GSAP with Rails 3/4"
-  s.description = "This gem provides TweenMax, TweenLite, TimelineMax, TimelineLite, and the GSAP jQuery plugin in uncompressed format for your Rails 3/4 application."
-  s.license     = "Copyright (c) 2014, GreenSock."
-  s.files = Dir["{lib,vendor}/**/*"]
+Gem::Specification.new do |spec|
+  spec.name          = "greensock-rails"
+  spec.version       = Greensock::Rails::VERSION
+  spec.authors       = ["Robert Pataki, Greensock Team"]
+  spec.email         = ["robert@robertpataki.com"]
+  spec.description   = "This gem provides TweenMax, TweenLite, TimelineMax, TimelineLite, and the GSAP jQuery plugin in uncompressed format for your Rails 3.1 application."
+  spec.summary       = "Use GSAP with Rails 3.1 or later"
+  spec.homepage      = "https://github.com/heartcode/greensock-rails"
+  spec.license       = "Copyright (c) 2014, GreenSock."
 
-  s.platform    = Gem::Platform::RUBY
-  
-  s.required_rubygems_version = ">= 1.3.6"
-  s.rubyforge_project         = "greensock-rails"
+  spec.files         = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
+  spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
+  spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
+  spec.require_paths = ["lib"]
 
-  s.require_path = 'lib'
-  
-  s.authors     = ["Robert Pataki, Team Greensock"]
-  s.email       = ["robert@robertpataki.com"]
-  s.homepage    = "http://rubygems.org/gems/greensock-rails"
+  spec.add_development_dependency "bundler", "~> 1.3"
+  spec.add_development_dependency "rake"
 end
