@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["robert@robertpataki.com"]
   spec.description   = "This gem provides TweenMax, TweenLite, TimelineMax, TimelineLite, and the GSAP jQuery plugin in uncompressed format for your Rails 3.1 application."
   spec.summary       = "Use GSAP with Rails 3.1 or later"
-  spec.homepage      = "https://github.com/heartcode/greensock-rails"
+  spec.homepage      = "https://rubygems.org/gems/greensock-rails/"
   spec.license       = "Copyright (c) 2014, GreenSock."
 
   spec.files         = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
