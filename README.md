@@ -10,11 +10,11 @@ This is a Ruby gem for adding the great [Greensock JavaScript tweening engine](h
 
 **Using the command line:**
 
-	$ gem install 'greensock-rails'
-	
+  $ gem install 'greensock-rails'
+  
 **In the Gemfile:**
 
-	gem 'greensock-rails'
+  gem 'greensock-rails'
 
 ## Usage
 
@@ -22,16 +22,20 @@ The gem is using the uncompressed GSAP files, so that you can debug your code in
 
 **To include the required GSAP files in your application, simply require them in `application.js`:**
 
-	//= require TweenMax
-	//= require easing/EasePack
-	
+  //= require TweenMax
+  //= require easing/EasePack
+  
 **To include the GSAP jQuery plugin in your application, use:**
 
-	//= require jquery.gsap.js
+  //= require jquery.gsap.js
+
+## Versioning
+
+The versioning of the gem follows the original versioning of GSAP, so:
+
+`greensock-rails-1.11.4 = gsap-js-1.11.4`
 
 ## Contributing
-
-This is my first Ruby gem ever, so most probably the code won't be perfect.
 
 Please do open an issue if you find code smell, or anything that can be improved around the Ruby gem's code.
 
@@ -39,6 +43,5 @@ Please do not open an issue if there is a bug in GSAP itself. Any bugs of the Gr
 
 ## Copyright
 
-Ruby gem: Copyright (c) 2014, Robert Pataki.
-
-GSAP: Copyright (c) 2014, GreenSock. All rights reserved. This work is subject to the terms in http://www.greensock.com/terms_of_use.html or for Club GreenSock members, the software agreement that was issued with the membership.
+Greensock JS: Copyright (c) 2014, GreenSock. All rights reserved.
+Greensock Rails Ruby gem: Copyright (c) 2014, Robert Pataki.

@@ -1,6 +1,5 @@
-module GSAP
+module Greensock
   module Rails
-    VERSION = "0.0.2"
-    GSAP_VERSION = "1.11.4"
+    VERSION = "1.11.4.0"
   end
 end
