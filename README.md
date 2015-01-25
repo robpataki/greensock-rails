@@ -2,7 +2,7 @@
 
 This is a Ruby gem for adding the great [Greensock JavaScript tweening engine](http://www.greensock.com/gsap-js/) to Rails, so that you can animate the hell out of your RESTful app :)
 
-[![Gem Version](https://badge.fury.io/rb/greensock-rails.png)](http://badge.fury.io/rb/greensock-rails)
+[![Gem Version](https://badge.fury.io/rb/greensock-rails.png)](http://badge.fury.io/rb/greensock-rails) [![npm version](https://badge.fury.io/js/generator-sizzle.svg)](http://badge.fury.io/js/generator-sizzle)
 
 ## greensock-rails RubyGems URL
 
