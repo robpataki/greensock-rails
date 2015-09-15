@@ -45,14 +45,18 @@ Please do not open an issue if there is a bug in GSAP itself. Any bugs of the Gr
 
 ## Copyright
 
+<br/>
+
 <a href="https://github.com/greensock/GreenSock-JS" target="_blank">
-    <img width="206" src="https://raw.githubusercontent.com/handcraftedLDN/greensock-rails/master/greensock_logo_64.png" alt="Greensock Logo"/>
+    <img width="150" src="https://raw.githubusercontent.com/handcraftedLDN/greensock-rails/master/greensock_logo_64.png" alt="Greensock Logo"/>
 </a>
 
 Greensock JS: Copyright (c) 2015, GreenSock. All rights reserved.
+
+<br/>
 
 <a href="http://handcrafteddigital.london" target="_blank">
     <img width="192" src="https://raw.githubusercontent.com/handcraftedLDN/greensock-rails/master/handcrafted-digital-london-logo@2x.png" alt="Handcrafted Digital London - Fine, hand made design and development from London"/>
 </a>
 
-Copyright &copy; 2015 The <a href="https://github.com/handcraftedLDN/brewser" target="_blank">greensock-rails</a> gem has been <a href="http://handcrafteddigital.london" target="_blank">Handcrafted</a>.
+Copyright &copy; 2015 The <a href="https://github.com/handcraftedLDN/greensock-rails" target="_blank">greensock-rails</a> gem has been <a href="http://handcrafteddigital.london" target="_blank">Handcrafted</a>.
