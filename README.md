@@ -2,7 +2,7 @@
 
 This is a Ruby gem for adding the great [Greensock JavaScript tweening engine](http://www.greensock.com/gsap-js/) to Rails, so that you can animate the hell out of your RESTful app :)
 
-[![Gem Version](https://badge.fury.io/rb/greensock-rails.png)](http://badge.fury.io/rb/greensock-rails) [![npm version](https://badge.fury.io/js/generator-sizzle.svg)](http://badge.fury.io/js/generator-sizzle)
+[![Gem Version](https://badge.fury.io/rb/greensock-rails.png)](http://badge.fury.io/rb/greensock-rails)
 
 ## greensock-rails RubyGems URL
 
@@ -45,5 +45,14 @@ Please do not open an issue if there is a bug in GSAP itself. Any bugs of the Gr
 
 ## Copyright
 
-Greensock JS: Copyright (c) 2014, GreenSock. All rights reserved.
-Greensock Rails Ruby gem: Copyright (c) 2014, Robert Pataki.
+<a href="https://github.com/greensock/GreenSock-JS" target="_blank">
+    <img width="206" src="https://raw.githubusercontent.com/handcraftedLDN/greensock-rails/master/greensock_logo_64.png" alt="Greensock Logo"/>
+</a>
+
+Greensock JS: Copyright (c) 2015, GreenSock. All rights reserved.
+
+<a href="http://handcrafteddigital.london" target="_blank">
+    <img width="192" src="https://raw.githubusercontent.com/handcraftedLDN/greensock-rails/master/handcrafted-digital-london-logo@2x.png" alt="Handcrafted Digital London - Fine, hand made design and development from London"/>
+</a>
+
+Copyright &copy; 2015 The <a href="https://github.com/handcraftedLDN/brewser" target="_blank">greensock-rails</a> gem has been <a href="http://handcrafteddigital.london" target="_blank">Handcrafted</a>.
