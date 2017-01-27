@@ -60,7 +60,7 @@ Copyright &copy; 2017, GreenSock. All rights reserved.
 <br/>
 
 <a href="https://robertpataki.com" target="_blank">
-  <img width="144" src="https://raw.githubusercontent.com/robertpataki/greensock-rails/master/rob-p-logo.svg" alt="Rob P | Freelance interaction designer and developer"/>
+  <img width="144" src="https://robertpataki.com/rob-p-logo.svg" alt="Rob P | Freelance interaction designer and developer"/>
 </a>
 
 Copyright &copy; 2017 The <a href="https://github.com/robertpataki/greensock-rails" target="_blank">greensock-rails</a> gem was created and has been maintained by [Rob Pataki](https://robertpataki.com) since 2014.
