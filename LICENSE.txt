@@ -1,2 +1,2 @@
-Greensock JS: Copyright (c) 2014, GreenSock. All rights reserved.
-Greensock Rails Ruby gem: Copyright (c) 2014, Robert Pataki.
+Greensock JS: Copyright (c) 2017, GreenSock. All rights reserved.
+Greensock Rails Ruby gem: Copyright (c) 2017, Rob Pataki.

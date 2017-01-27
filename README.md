@@ -1,10 +1,14 @@
 # Greensock JS for Rails
 
-This is a Ruby gem for adding the great [Greensock JavaScript tweening engine](http://www.greensock.com/gsap-js/) to Rails, so that you can animate the hell out of your RESTful app :)
+This is a Ruby gem for adding the free version of the great [Greensock JavaScript tweening engine](http://www.greensock.com/gsap-js/) to Rails, so that you can animate the hell out of your RESTful app :)
 
 [![Gem Version](https://badge.fury.io/rb/greensock-rails.png)](http://badge.fury.io/rb/greensock-rails)
 
-## greensock-rails RubyGems URL
+## What this gem contains
+
+Please note that this gem only contains the free version of Greensock - no premium plugins are included. For more information about **Club Greensock and premium plugins** please visit [https://greensock.com/club/](https://greensock.com/club/)
+
+## greensock-rails on RubyGems
 
 [https://rubygems.org/gems/greensock-rails](https://rubygems.org/gems/greensock-rails)
 
@@ -13,7 +17,7 @@ This is a Ruby gem for adding the great [Greensock JavaScript tweening engine](h
 **Using the command line:**
 
 	$ gem install 'greensock-rails'
-  
+
 **In the Gemfile:**
 
 	gem 'greensock-rails'
@@ -26,7 +30,7 @@ The gem is using the uncompressed GSAP files, so that you can debug your code in
 
 	//= require 'greensock/TweenLite'
 	//= require 'greensock/easing/EasePack'
-  
+
 **To include the GSAP jQuery plugin in your application, use:**
 
 	//= require 'greensock/jquery.gsap.js'
@@ -48,15 +52,15 @@ Please do not open an issue if there is a bug in GSAP itself. Any bugs of the Gr
 <br/>
 
 <a href="https://github.com/greensock/GreenSock-JS" target="_blank">
-    <img width="150" src="https://raw.githubusercontent.com/handcraftedLDN/greensock-rails/master/greensock_logo_64.png" alt="Greensock Logo"/>
+  <img width="150" src="https://raw.githubusercontent.com/robertpataki/greensock-rails/master/greensock_logo_64.png" alt="Greensock Logo"/>
 </a>
 
-Greensock JS: Copyright (c) 2015, GreenSock. All rights reserved.
+Copyright &copy; 2017, GreenSock. All rights reserved.
 
 <br/>
 
-<a href="http://handcrafteddigital.london" target="_blank">
-    <img width="192" src="https://raw.githubusercontent.com/handcraftedLDN/greensock-rails/master/handcrafted-digital-london-logo@2x.png" alt="Handcrafted Digital London - Fine, hand made design and development from London"/>
+<a href="https://robertpataki.com" target="_blank">
+  <img width="144" src="https://raw.githubusercontent.com/robertpataki/greensock-rails/master/rob-p-logo.svg" alt="Rob P | Freelance interaction designer and developer"/>
 </a>
 
-Copyright &copy; 2017 The <a href="https://github.com/handcraftedLDN/greensock-rails" target="_blank">greensock-rails</a> gem has been <a href="http://handcrafteddigital.london" target="_blank">Handcrafted</a>.
+Copyright &copy; 2017 The <a href="https://github.com/robertpataki/greensock-rails" target="_blank">greensock-rails</a> gem was created and has been maintained by [Rob Pataki](https://robertpataki.com) since 2014.
