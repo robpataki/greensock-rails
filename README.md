@@ -59,4 +59,4 @@ Greensock JS: Copyright (c) 2015, GreenSock. All rights reserved.
     <img width="192" src="https://raw.githubusercontent.com/handcraftedLDN/greensock-rails/master/handcrafted-digital-london-logo@2x.png" alt="Handcrafted Digital London - Fine, hand made design and development from London"/>
 </a>
 
-Copyright &copy; 2015 The <a href="https://github.com/handcraftedLDN/greensock-rails" target="_blank">greensock-rails</a> gem has been <a href="http://handcrafteddigital.london" target="_blank">Handcrafted</a>.
+Copyright &copy; 2017 The <a href="https://github.com/handcraftedLDN/greensock-rails" target="_blank">greensock-rails</a> gem has been <a href="http://handcrafteddigital.london" target="_blank">Handcrafted</a>.
