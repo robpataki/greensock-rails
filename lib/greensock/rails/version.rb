@@ -1,5 +1,5 @@
 module Greensock
   module Rails
-    VERSION = "1.19.1.2"
+    VERSION = "1.20.0.0"
   end
 end
