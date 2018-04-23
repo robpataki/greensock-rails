@@ -55,7 +55,7 @@ Please do not open an issue if there is a bug in GSAP itself. Any bugs of the Gr
   <img width="150" src="https://raw.githubusercontent.com/robertpataki/greensock-rails/master/greensock_logo_64.png" alt="Greensock Logo"/>
 </a>
 
-Copyright &copy; 2017, GreenSock. All rights reserved.
+Copyright &copy; 2018, GreenSock. All rights reserved.
 
 <br/>
 
@@ -63,4 +63,4 @@ Copyright &copy; 2017, GreenSock. All rights reserved.
   <img width="144" src="https://robertpataki.com/rob-p-logo.svg" alt="Rob P | Freelance interaction designer and developer"/>
 </a>
 
-Copyright &copy; 2017 The <a href="https://github.com/robertpataki/greensock-rails" target="_blank">greensock-rails</a> gem was created and has been maintained by [Rob Pataki](https://robertpataki.com) since 2014.
+Copyright &copy; 2018 The <a href="https://github.com/robertpataki/greensock-rails" target="_blank">greensock-rails</a> gem was created and has been maintained by [Rob Pataki](https://robertpataki.com) since 2014.
